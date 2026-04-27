@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Task 1",
+    "description": "debugging",
+    "status": "Done",
+    "projectId": 1
+  },
+  {
+    "id": 2,
+    "title": "Task so cool",
+    "description": "Designing",
+    "status": "Done",
+    "projectId": 1
+  },
+  {
+    "id": 4,
+    "title": "Task New",
+    "description": "Designing",
+    "status": "Pending",
+    "projectId": 2
+  },
+  {
+   "id": 5,
+   "title": "Task 5",
+    "description": "Designing",
+    "status": "Pending",
+    "projectId": 2
+  },
+  {
+    "id": 6,
+    "title": "Task 6",
+    "description": "Designing",
+    "status": "Pending",
+    "projectId": 800
+  },
+  {
+    "id": 7,
+    "title": "Task 7",
+    "description": "Designing",
+    "status": "Pending",
+    "projectId": 1
+  }
+]

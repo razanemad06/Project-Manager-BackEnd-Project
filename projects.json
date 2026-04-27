@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Project Beta",
+    "description": "A project aimed at creating a new mobile application for social networking.",
+    "status": "Completed",
+    "createdAt": "2022-11-20",
+    "members": [
+      "Alice",
+      "Bob",
+      "Charlie"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Project Gamma",
+    "description": "A project dedicated to improving the user experience of an existing web platform.",
+    "status": "In Progress",
+    "createdAt": "2023-03-10",
+    "members": [
+      "Alice",
+      "Bob",
+      "Charlie"
+    ]
+  },
+  {
+    "id": 800,
+    "title": "Project Lucky",
+    "description": "A project dedicated to improving the user experience of an existing web platform.",
+    "status": "In Progress",
+    "createdAt": "2023-03-10",
+    "members": [
+      "Alice",
+      "Bob",
+      "Charlie"
+    ]
+  }
+]
