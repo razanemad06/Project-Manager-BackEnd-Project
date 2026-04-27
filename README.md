@@ -59,4 +59,4 @@ A robust backend system built with **Node.js**, **Express**, and **MongoDB** to 
    Ensure your MongoDB connection is established in your entry file.
 3. **Run**:
    ```bash
-   node app.js
+   node server.js
